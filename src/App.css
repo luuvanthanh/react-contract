@@ -1,3 +1,7 @@
+.container {
+  display: flex;
+}
+
 .dx-htmleditor-content img {
   vertical-align: middle;
   padding-right: 10px;
@@ -20,4 +24,8 @@
 
 .option {
   margin-top: 10px;
+}
+
+.containerapp {
+  display: flex !important;
 }

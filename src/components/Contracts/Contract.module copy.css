@@ -1,0 +1,72 @@
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.tieudetop {
+    text-align: center;
+    margin: 0;
+}
+
+h2.tieudetop,
+h3.tieudetop {
+    font-weight: bold;
+}
+
+.tieude {
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+}
+
+.tieudetraitop, 
+.tendv {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.tieudetraibottom {
+    margin-top: 5px;
+}
+
+.tieudeten {
+    float: right;
+    margin-left: 4px;
+}
+
+.tieudephai {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tieudephai p {
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.tieudephai input {
+    height: 15px;
+    width: 50px;
+    margin-left: 5px;
+}
+
+/* main */
+
+.main {
+    margin-top: 20px;
+}
+
+h2.mainhopdong {
+    text-align: center;
+    font-weight: bold;
+    margin: 0;
+}
+
+.maininformation {
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    margin: 0;
+}
